@@ -2,15 +2,19 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # probot
-- project: probot
+- project: prediploma training
   role: Contributor
-  duration: 2016 &mdash; Present
-  url: "https://github.com/probot/probot"
-  description: A framework for building GitHub Apps to automate and improve your workflow
+  duration: 2020 &mdash; Present
+  url: "https://gitlab.com/kirillshostik/qulix_test_task/-/tree/feature1-1"
+  description: Created Node.js server using Typescript and MongoDB to fetch data for
+registration and authentication with token.Implemented login and registration pages on client side using React.
+Managed application state using Redux-saga.
+
 
 # GitHub Classroom
-- project: GitHub Classroom
+- project: Study Project
   role: Contributor
-  duration: 2015 &mdash; Present
-  url: "https://github.com/education/classroom"
-  description: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub.
+  duration: September 2019 &mdash; October 2019
+#   url: "https://github.com/education/classroom"
+  description: Implemented adaptive design for pages using Flexbox. Used Gulp to compile SCSS to CSS. Implemented stylelint and eslint to lint all scss and js les.
+
