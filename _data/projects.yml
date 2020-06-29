@@ -6,9 +6,7 @@
   role: Contributor
   duration: 2020 &mdash; Present
   url: "https://gitlab.com/kirillshostik/qulix_test_task/-/tree/feature1-1"
-  description: Created Node.js server using Typescript and MongoDB to fetch data for
-registration and authentication with token.Implemented login and registration pages on client side using React.
-Managed application state using Redux-saga.
+  description: Created Node.js server using Typescript and MongoDB to fetch data for registration and authentication with token.Implemented login and registration pages on client side using React. Managed application state using Redux-saga.
 
 
 # GitHub Classroom
