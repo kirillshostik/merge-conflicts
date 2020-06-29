@@ -15,6 +15,6 @@ Managed application state using Redux-saga.
 - project: Study Project
   role: Contributor
   duration: September 2019 &mdash; October 2019
-#   url: "https://github.com/education/classroom"
+  url: "https://gitlab.com/kirillshostik"
   description: Implemented adaptive design for pages using Flexbox. Used Gulp to compile SCSS to CSS. Implemented stylelint and eslint to lint all scss and js les.
 
